@@ -1,0 +1,2 @@
+# PatterChainResponsibility
+Exemplo de implementação
